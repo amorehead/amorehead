@@ -1,4 +1,4 @@
-### Hi! My name is Alex Morehead 👋
+### Hi! I'm Alex 👋
 
 - 🔭 I’m currently working on machine learning models for applications of deep structured prediction in bioinformatics and computer vision.
 - 🌱 I’m currently learning about equivariance in attentive neural networks.

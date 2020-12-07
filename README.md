@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on machine learning models for applications of deep structured prediction in bioinformatics and computer vision.
 - 🌱 I’m currently learning about equivariance in attentive neural networks.
-- 💬 Ask me about machine learning, artificial intelligence, bioinformatics, music, long-distance running, etc.
+- 💬 Ask me about machine learning, artificial intelligence, music, long-distance running, etc.
 - 📫 How to reach me: LinkedIn, Twitter, Gmail, etc.
 - ⚡ Fun fact: I've been teaching myself to play the guitar for the past year.
 

@@ -1,10 +1,10 @@
 ### Hi! I'm Alex 👋
 
-- 🔭 I’m currently working on machine learning models for applications of deep structured prediction in bioinformatics and computer vision.
+- 🔭 I’m currently working on applications of geometric deep learning for structural biology and bioinformatics more generally.
 - 🌱 I’m currently learning about equivariance in attentive neural networks.
-- 💬 Ask me about machine learning, artificial intelligence, music, long-distance running, etc.
+- 💬 Ask me about machine learning, artificial intelligence, bioinformatics, music, long-distance running, etc.
 - 📫 How to reach me: LinkedIn, Twitter, Gmail, etc.
-- ⚡ Fun fact: I've been teaching myself to play the guitar for the past year.
+- ⚡ Fun fact: I can understand (i.e., read) more Chinese and Japanese than I can speak.
 
 🌐 [Website](http://amorehead.github.io/) · 📰 [Google Scholar](https://scholar.google.com/citations?user=IYHJU5EAAAAJ) · 👔 [LinkedIn](https://www.linkedin.com/in/alexmorehead) · 🐦 [Twitter](https://twitter.com/MoreheadAlex)
 

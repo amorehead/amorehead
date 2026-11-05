@@ -1,8 +1,8 @@
 ### Hi! I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on applications of geometric deep learning and generative modeling for structural biology and computational biology more generally.
-- 🌱 I’m currently learning about generative flow matching with equivariant neural networks.
-- 💬 Ask me about machine learning, artificial intelligence, computational biology, music, cardio and strength training, etc.
+- 🔭 I’m currently working on applications of geometric deep learning and generative modeling for materials science, molecular chemistry, as well as structural and cellular biology.
+- 🌱 I’m currently learning about the intersection of generative modeling and representation learning for science and other data broadly speaking.
+- 💬 Ask me about machine learning, artificial intelligence, computational biology/chemistry, music, cardio and strength training, etc.
 - 📫 How to reach me: LinkedIn, Twitter, Gmail, etc.
 - ⚡ Fun fact: I can understand (i.e., read) more Chinese and Japanese than I can speak.
 

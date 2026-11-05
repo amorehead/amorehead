@@ -6,9 +6,12 @@
 - 📫 How to reach me: LinkedIn, Twitter, Gmail, etc.
 - ⚡ Fun fact: I can understand (i.e., read) more Chinese and Japanese than I can speak.
 
-🌐 [Website](http://amorehead.github.io/) · 📰 [Google Scholar](https://scholar.google.com/citations?user=IYHJU5EAAAAJ) · 👔 [LinkedIn](https://www.linkedin.com/in/alexmorehead) · 🐦 [Twitter](https://twitter.com/MoreheadAlex)
+[![Website](https://img.shields.io/badge/Website-252525?style=flat-square&logo=google-chrome&logoColor=white)](http://amorehead.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=IYHJU5EAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexmorehead)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MoreheadAlex)
 
-[![Github profile Trophy](https://github-profile-trophy.vercel.app/?username=amorehead)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amorehead&theme=default)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorehead)
-![lambdalisue's github stats](https://github-readme-stats.vercel.app/api?username=amorehead&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=amorehead)
+![Alex's github stats](https://github-stats-extended.vercel.app/api?username=amorehead&show_icons=true&count_private=true&line_height=40)
